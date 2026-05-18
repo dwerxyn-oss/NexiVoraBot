@@ -1,0 +1,1 @@
+# NovaMarket Telegram bot package
